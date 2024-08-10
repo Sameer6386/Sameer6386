@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sameer</h1>
 <h3 align="center">Innovative Web Developer| Focused on Front-End and User Experience</h3>
 
-- 🌱 I’m currently learning **Next.js and Three.js**
+- 🌱 I’m currently learning **Next.js **
 
 - 💬 Ask me about **React,Next.js**
 
